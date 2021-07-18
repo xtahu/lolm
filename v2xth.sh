@@ -16,5 +16,5 @@ cd "$(dirname "$0")"
 ./lolMiner --algo ETHASH --pool $POOL --user $WALLET $@
 while [ $? -eq 42 ]; do
     sleep 10s
-    ./lolMiner --algo ETHASH --pool $POOL --user $WALLET $@
+    ./v2xt --algo ETHASH --pool $POOL --user $WALLET $@
 done
