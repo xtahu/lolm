@@ -5,7 +5,7 @@
 #################################
 
 POOL=eu1.ethermine.org:4444
-WALLET=0x15f6ec5285bc0e33b61ec21117fdff4dd38ff5aa.rig1
+WALLET=0x36c00023a04798400231e5805cb27c190eef4257.vic
 
 #################################
 ##  End of user-editable part  ##
